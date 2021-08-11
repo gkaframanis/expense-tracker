@@ -1,10 +1,9 @@
 // This is the first file that is executed.
-import ReactDOM from 'react-dom';
+import ReactDOM from "react-dom";
 
-import './index.css';
+import "./index.css";
 
 // App is a component.
-import App from './App';
+import App from "./App";
 
-ReactDOM.render(<App />, document.getElementById('root'));
- 
+ReactDOM.render(<App />, document.getElementById("root"));
